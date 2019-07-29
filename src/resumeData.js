@@ -1,24 +1,18 @@
 let resumeData = {
-  name: "Jane Doe",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
-  skypeid: "Your skypeid",
+  name: "Emily Zhang",
+  role: "Frontend Web Developer & UX Designer",
+  linkedinId:"aiwen-z-910721117",
   roleDescription: "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
   socialLinks:[
       {
         name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
+        url:"https://www.linkedin.com/in/aiwen-z-910721117",
         className:"fa fa-linkedin"
       },
       {
         name:"github",
-        url:"http://github.com/",
+        url:"http://github.com/aemelialialia",
         className:"fa fa-github"
-      },
-      {
-        name:"skype",
-        url:"http://skype.com",
-        className:"fa fa-skype"
       }
     ],
   aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",
